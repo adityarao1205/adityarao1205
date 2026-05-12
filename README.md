@@ -56,9 +56,7 @@
 - VS Code
 - IntelliJ IDEA
 - Eclipse
-
 ---
-
 ## 📌 Featured Projects
 
 ### 🌦️ Forecast Pro
@@ -72,32 +70,21 @@ MERN stack application for booking and managing events with secure authenticatio
 
 ### 🏢 PlanX Enterprise Project
 Enterprise Java EE application built using Servlets, JSP, Tomcat & WildFly server technologies.
-
 ---
-
 ## 📚 Currently Exploring
-
 - Advanced Java Backend Development
 - Enterprise Application Architecture
 - JUnit 5 Migration
 - Selenium Automation Frameworks
 - Full Stack Development
 - DSA & Problem Solving
-
 ---
-
 ## 🧠 Coding Profiles
-
-- LeetCode: Add your LeetCode profile link here
 - GitHub: https://github.com/adityarao1205
-
 ---
-
 ## 📫 Connect With Me
-
 - LinkedIn: https://www.linkedin.com/in/aditya-rao1205/
 - GitHub: https://github.com/adityarao1205
-
 ---
 
 ⭐ Always learning, building and improving through real-world projects and development experience.
