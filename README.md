@@ -1,90 +1,151 @@
 # Hi 👋, I'm Aditya Rao
 
-🎓 B.Tech CSE Student  
-💻 Full Stack & Java Developer  
-🚀 Passionate about Enterprise Application Development, Backend Systems & Automation Testing  
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
+![JUnit5](https://img.shields.io/badge/JUnit5-Testing-red?style=for-the-badge)
+
+### 💻 Java Full Stack Developer | Enterprise Application Enthusiast | Automation Testing Learner
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- Building full stack applications using MERN Stack & Java technologies
-- Experience working on Enterprise Java EE applications using Servlets & JSP
-- Working with servers like Apache Tomcat & WildFly
-- Currently involved in JUnit 5 migration and Selenium automation testing
-- Practicing Data Structures & Algorithms using Java
-- Interested in scalable backend systems, testing frameworks & modern web applications
+🎓 B.Tech CSE Student passionate about building scalable and real-world software applications.
+
+🚀 Currently focused on:
+- Enterprise Java Development
+- Full Stack Web Applications
+- Backend Systems & APIs
+- Automation Testing
+- Problem Solving & DSA
+
+💡 Hands-on experience with:
+- Java Servlets & JSP
+- Spring Boot
+- React.js
+- JDBC & MySQL
+- Selenium WebDriver
+- JUnit 5 Migration
+- Apache Tomcat & WildFly
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 - Java
 - JavaScript
 - SQL
 - HTML5
 - CSS3
 
-### ⚡ Frontend
+---
+
+## ⚡ Frontend
 - React.js
 - Bootstrap
 - Tailwind CSS
 
-### 🔧 Backend
+---
+
+## 🔧 Backend
 - Node.js
 - Express.js
 - Java Servlets
 - JSP
 - Spring Boot
+- JDBC
 
-### 🗄️ Databases
-- MongoDB
+---
+
+## 🗄️ Databases
 - MySQL
+- MongoDB
 
-### 🧪 Testing & Automation
+---
+
+## 🧪 Testing & Automation
 - Selenium WebDriver
 - JUnit 5
-- Test Automation
 - Regression Testing
+- Automation Frameworks
 
-### ⚙️ Tools & Platforms
+---
+
+## ⚙️ Tools & Platforms
 - Git & GitHub
 - Postman
 - Apache Tomcat
 - WildFly Server
+- Maven
 - VS Code
 - IntelliJ IDEA
 - Eclipse
+
 ---
-## 📌 Featured Projects
 
-### 🌦️ Forecast Pro
-React-based weather forecasting application with real-time weather API integration and responsive UI.
+# 📌 Featured Projects
 
-### ✅ Task Management App
-Full stack task management system with CRUD operations, authentication and backend API integration.
+## 🚀 PLANX – Smart Event Booking & Management System
+Enterprise Java EE application developed using Java Servlets, JSP, JDBC, MySQL, Maven, Tomcat & WildFly.
 
-### 🎟️ Smart Event Booking System
-MERN stack application for booking and managing events with secure authentication.
+### Key Highlights
+- MVC Architecture
+- DAO Design Pattern
+- Reflection API Implementation
+- Secure Authentication
+- Event Booking Workflow
+- Session Management
+- JDBC Connectivity
+- Real-world CRUD Operations
 
-### 🏢 PlanX Enterprise Project
-Enterprise Java EE application built using Servlets, JSP, Tomcat & WildFly server technologies.
 ---
-## 📚 Currently Exploring
+
+## 🌦️ Forecast Pro
+React-based weather forecasting application with real-time API integration and responsive UI.
+
+---
+
+## ✅ Task Management App
+Full stack task management system with CRUD operations, authentication, REST APIs and backend integration.
+
+---
+
+# 📚 Currently Exploring
+
 - Advanced Java Backend Development
 - Enterprise Application Architecture
 - JUnit 5 Migration
 - Selenium Automation Frameworks
-- Full Stack Development
+- Scalable System Design
 - DSA & Problem Solving
----
-## 🧠 Coding Profiles
-- GitHub: https://github.com/adityarao1205
----
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/aditya-rao1205/
-- GitHub: https://github.com/adityarao1205
+
 ---
 
-⭐ Always learning, building and improving through real-world projects and development experience.
+# 🧠 Coding Profiles
+
+- GitHub: https://github.com/adityarao1205
+- LinkedIn: https://www.linkedin.com/in/aditya-rao1205/
+
+---
+
+# 📈 Goals
+
+- Build enterprise-grade backend systems
+- Contribute to real-world scalable applications
+- Strengthen automation testing expertise
+- Continuously improve problem-solving skills
+
+---
+
+<div align="center">
+
+⭐ Always learning, building, and improving through real-world software development.
+
+</div>
